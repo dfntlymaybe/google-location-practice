@@ -1,0 +1,8 @@
+<div>
+  <h2>Closest organic stores for: <small>{{bla}}</small></h2>
+  <ul>
+    <li ng-repeat="store in storesList">
+      {{store.name | uppercase}}, {{store.address}}. <span style="color: red">{{store.distanceText}}</span>  from your location.
+    </li>
+  </ul>
+</div>

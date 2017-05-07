@@ -1,0 +1,34 @@
+chains = [
+   {
+    "name": "shufersal-green",
+    "branches": [
+      "Ashdod, Israel",
+      "Tel Aviv-Yafo, Israel",
+      "Zfat, Israel"
+  ]
+  },
+  {
+    "name": "nitzat-haduvdevan",
+      "branches": [
+        "Reshon lezion, Israel",
+        "Jerusalem, Israel",
+        "Eilat, Israel"
+    ]
+  },
+  {
+    "name": "anise",
+      "branches": [
+        "Rehovot, Israel",
+        "Ramat gan, Israel",
+        "Hulon, Israel"
+    ]
+  },
+  {
+    "name": "teva-kastel",
+      "branches": [
+        "Haifa, Israel",
+        "Ashkelon, Israel",
+        "Beer sheva, Israel"
+    ]
+  },
+]
